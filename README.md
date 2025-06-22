@@ -52,6 +52,10 @@
 ![Metrics](https://github.com/Sunshide12/Sunshide12/blob/main/github-metrics.svg)
 
 
+![GitHub Metrics](https://github.com/Sunshide12/Sunshide12/blob/main/github-metrics.svg)
+
+
+
 
 
 ---
