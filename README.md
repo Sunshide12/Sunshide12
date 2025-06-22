@@ -46,9 +46,6 @@
 </p>
 
 ### ⏱ WakaTime Stats
-![Metrics](https://github-readme-metrics.vercel.app/api?username=Sunshide12&template=classic&config_timezone=America%2FBogota&plugin_wakatime=true&plugin_wakatime_token=waka_5af376c8-4423-45b5-858f-3619d4e73f4e&plugin_wakatime_languages=true&plugin_wakatime_repositories=true)
-
-
 
 ![GitHub Metrics](https://github.com/Sunshide12/Sunshide12/blob/main/github-metrics.svg)
 
