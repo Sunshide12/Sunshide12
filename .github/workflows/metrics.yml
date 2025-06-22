@@ -1,8 +1,8 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]  # Corre todos los días
-  workflow_dispatch:  # Permite ejecutarlo manualmente
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -16,6 +16,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
 
-          # Plugin WakaTime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_languages: yes
+          plugin_wakatime_repositories: yes
