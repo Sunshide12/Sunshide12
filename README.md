@@ -47,11 +47,6 @@
 
 ### ⏱ WakaTime Stats
 
-<img src="https://github.com/Sunshide12/Sunshide12/blob/main/github-metrics.svg" alt="Metrics" />
-
-![Metrics](https://github.com/Sunshide12/Sunshide12/blob/main/github-metrics.svg)
-
-
 ![GitHub Metrics](https://github.com/Sunshide12/Sunshide12/blob/main/github-metrics.svg)
 
 
