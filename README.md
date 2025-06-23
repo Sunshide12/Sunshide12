@@ -20,9 +20,7 @@
 - 👯 I’m open to collaborating on educational platforms, online stores, and creative web projects.
 - 💬 Ask me about JavaScript, front-end development, or building efficient user-focused applications.
 - ⚡ Quick learner, organized, and passionate about building useful and elegant tech solutions.
-
-
-
+- 
 ---
 
 ### 🛠 Favorite Technologies
@@ -40,24 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" style="margin:10px;"/>
 </p>
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunshide12&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunshide12&layout=compact&theme=radical" />
-</p>
-
-### ⏱ WakaTime Stats
-
-![GitHub Metrics](https://github.com/Sunshide12/Sunshide12/blob/main/github-metrics.svg)
-
-
-
-
-
 ---
 
 ### 📫 How to reach me
@@ -67,4 +47,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sunshide12&color=red&style=flat)
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunshide12&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunshide12&layout=compact&theme=radical" />
+</p>
