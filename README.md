@@ -48,14 +48,13 @@
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunshide12&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sunshide12&theme=highcontrast&ring=FFA500&fire=FF8C00&currStreakLabel=FFD700&sideNums=FFA500&dates=F5F5DC&hide_border=false" alt="Sunshide12 GitHub Streak" />
 </p>
 
 ---
-
 
 ### 📬 Connect with me
 
