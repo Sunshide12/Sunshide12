@@ -7,20 +7,20 @@
 ---
 
 ### 💼 Featured Projects
-- 🚀 `Modulo-Excusas` — Academic management module at COTECNOVA
-- 🧮 `Calculadora-en-JavaScript` — Functional web calculator project
-- 💡 `...` — ...
+-  `Modulo-Excusas` — Academic management module at COTECNOVA
+-  `webInventory` — an inventory system for any restaurant website or small business site.
+-  `Calculadora-en-JavaScript` — Functional web calculator project
 
 ---
 ### 😄 About Me
-- 🔭 I'm currently developing an excuse management module and an inventory system for small businesses.
-- 🧠 I specialize in front-end technologies (HTML, CSS, JavaScript), and have experience with PHP, Python, and SQL databases (MySQL, PostgreSQL).
-- 💡 I also have knowledge of C, C++, and C# for interactive systems and interface logic.
-- 🌱 I'm currently learning Vue.js and improving my skills in UI/UX design and clean, scalable code.
-- 👯 I’m open to collaborating on educational platforms, online stores, and creative web projects.
-- 💬 Ask me about JavaScript, front-end development, or building efficient user-focused applications.
-- ⚡ Quick learner, organized, and passionate about building useful and elegant tech solutions.
-- 
+-  I'm currently developing an excuse management module and an inventory system for small businesses.
+-  I specialize in front-end technologies (HTML, CSS, JavaScript), and have experience with PHP, Python, and SQL databases (MySQL, PostgreSQL).
+-  I also have knowledge of C, C++, and C# for interactive systems and interface logic.
+-  I'm currently learning Vue.js and improving my skills in UI/UX design and clean, scalable code.
+-  I’m open to collaborating on educational platforms, online stores, and creative web projects.
+-  Ask me about JavaScript, front-end development, or building efficient user-focused applications.
+-  Quick learner, organized, and passionate about building useful and elegant tech solutions.
+
 ---
 
 ### 🛠 Favorite Technologies
@@ -47,8 +47,12 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stebanbusiness@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573137057729)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/steban_812/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steban-martinez-074697267/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/steban_812/)
+
+
+
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sunshide12&color=green&style=flat)
