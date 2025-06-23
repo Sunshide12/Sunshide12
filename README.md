@@ -5,6 +5,9 @@
 </p>
 
 ---
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oconer49&radius=16&theme=github-dark&area=true&order=5&custom_title=MY%20ACTIVITY!%20%F0%9F%A7%8F&hide_border=false" alt="activity-graph graph" />
+</div>
+---
 
 ### 💼 Featured Projects
 -  `Modulo-Excusas` — Academic management module at COTECNOVA
