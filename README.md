@@ -5,9 +5,6 @@
 </p>
 
 ---
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oconer49&radius=16&theme=github-dark&area=true&order=5&custom_title=MY%20ACTIVITY!%20%F0%9F%A7%8F&hide_border=false" alt="activity-graph graph" />
-</div>
----
 
 ### 💼 Featured Projects
 -  `Modulo-Excusas` — Academic management module at COTECNOVA
@@ -42,6 +39,20 @@
 </p>
 
 
+
+---
+
+## 🧠 My GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunshide12&radius=16&theme=github-dark&area=true&order=5&custom_title=MY%20ACTIVITY!%20%F0%9F%A7%8F&hide_border=false)
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunshide12&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
