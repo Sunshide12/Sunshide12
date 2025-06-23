@@ -21,8 +21,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config --global user.name "GitHub Action Bot"
-          git config --global user.email "action@github.com"
+          git config --global user.name "Sunshide12"
+          git config --global user.email "stebanbusiness@gmail.com"
           git add lastUpdate
           git commit -m "🕒 Update timestamp: $timestamp" || echo "No changes to commit"
           git push
