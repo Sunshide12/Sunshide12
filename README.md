@@ -21,6 +21,8 @@
 -  Ask me about JavaScript, front-end development, or building efficient user-focused applications.
 -  Quick learner, organized, and passionate about building useful and elegant tech solutions.
 
+
+- Portfolio here: https://portfolio-inky-tau-gqub2eap9n.vercel.app/
 ---
 
 ### 📬 Connect with me
