@@ -1,7 +1,9 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"   # 7:00 p. m. COL (00:00 UTC)
+    - cron: "0 12 * * *"  # 7:00 a. m. COL (12:00 UTC)
   workflow_dispatch:
 
 jobs:
