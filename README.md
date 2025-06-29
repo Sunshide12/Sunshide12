@@ -23,6 +23,15 @@
 
 ---
 
+### 📬 Connect with me
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stebanbusiness@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573137057729)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steban-martinez-074697267/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/steban_812/)
+
+---
+
 ### 🛠 Favorite Technologies
 
 <p align="center">
@@ -55,17 +64,6 @@
 </p>
 
 ---
-
-### 📬 Connect with me
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stebanbusiness@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573137057729)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steban-martinez-074697267/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/steban_812/)
-
-
-
-
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sunshide12&color=green&style=flat)
