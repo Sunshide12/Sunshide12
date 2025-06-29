@@ -2,8 +2,12 @@ name: Daily Timestamp Update
 
 on:
   schedule:
-    - cron: '0 5 * * *'   # Cada día a las 5am UTC
-  workflow_dispatch:       # Permite ejecutarlo manualmente
+    - cron: '0 13 * * *'  # 8:00 a. m. COL
+    - cron: '0 15 * * *'  # 10:00 a. m. COL
+    - cron: '0 17 * * *'  # 12:00 p. m. COL
+    - cron: '0 20 * * *'  # 3:00 p. m. COL
+    - cron: '0 0 * * *'   # 7:00 p. m. COL
+  workflow_dispatch:
 
 jobs:
   update-timestamp:
