@@ -1,73 +1,96 @@
-<h1 align="center">Hi, I'm Steban Martínez 👋</h1>
+# 💻 Steban Martínez Gutiérrez  
+**Junior Web Developer | Front-End & Full Stack Enthusiast**  
+📍 Colombia — Open to Remote Work  
+📧 [steban_812@gmail.com](mailto:steban_812@gmail.com)  
+🔗 [GitHub](https://github.com/Sunshide12) • [LinkedIn](https://www.linkedin.com/in/steban-martinez-074697267/) • [Portfolio](https://portfolio-inky-tau-gqub2eap9n.vercel.app/)
+
+---
+
+## 🧩 Professional Summary  
+Junior Web Developer passionate about building efficient, elegant, and scalable web applications.  
+Strong foundation in **front-end technologies (HTML, CSS, JavaScript, Bootstrap)** and practical experience with **backend integration (PHP, Supabase, SQL)**.  
+Experienced in **Single Page Applications (SPA)**, **authentication systems**, **Row Level Security (RLS)**, and **real-time dashboards**.  
+
+Fast learner, analytical thinker, and team collaborator — currently expanding expertise in **Vue.js**, **UI/UX design**, and **modular architecture**.  
+English Level: B1 (technical reading and work communication).
+
+---
+
+## 🚀 Featured Projects  
+
+### 🧾 Inventory Management System (SPA)  
+**JavaScript | Supabase | PostgreSQL | Bootstrap**  
+- Designed and implemented a modern SPA for managing products, categories, and inventory.  
+- Integrated Supabase Auth with secure session management and email verification.  
+- Applied RLS policies to ensure user-level data access control.  
+- Created a real-time dashboard with inventory value, low-stock alerts, and performance caching.  
+- Organized code using modular JavaScript for scalability and maintainability.
+
+### 🎓 Academic Excuse Management Module  
+**PHP | JavaScript | MySQL**  
+- Developed a complete excuse management system for academic institutions.  
+- Designed data models linking students, subjects, teachers, and excuse requests.  
+- Implemented validation workflows and status tracking.  
+- Approved as final degree project for both Technical and Technologist programs.  
+- Focused on data integrity, usability, and institutional needs.
+
+---
+
+## 🧠 Technical Skills  
+
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, SPA Architecture  
+**Backend & Databases:** Supabase (PostgreSQL, Auth, RLS), SQL, PHP, Python (basic)  
+**Tools & Practices:** Git & GitHub, RESTful APIs, Client-side Caching, Responsive Design, Modular JS Architecture  
+**Currently Learning:** Vue.js, UI/UX Best Practices, Scalable Front-end Architecture  
+
+---
+
+## 🎓 Education  
+
+**Technologist in Information Systems**  
+*COTECNOVA — Cartago, Valle del Cauca*  
+📅 Expected Graduation: October 2025  
+
+**Technical Degree in Software Applications**  
+*COTECNOVA — Cartago, Valle del Cauca*  
+📅 Graduated: May 2024  
+
+---
+
+## 📜 Certifications  
+
+**Meta Full-Stack Developer Specialization — Coursera**  
+- Frontend: HTML, CSS, JavaScript, React  
+- Backend: Python, Django, Databases, REST APIs  
+- Version Control with Git & GitHub  
+🔗 [Verify Credential](https://coursera.org/verify/specialization/2QBFTEOE59XX)
+
+---
+
+## 🌍 Languages  
+- **Spanish:** Native  
+- **English:** B1 (Intermediate – technical documentation and work communication)  
+- Actively improving toward B2 proficiency  
+
+---
+
+## ⚙️ Favorite Technologies  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&pause=1600&color=0019B5&center=true&vCenter=true&width=750&height=70&lines=Information+Systems+Technology;Professional+Technician+in+Software+Applications" alt="Typing SVG" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white" title="Vercel" height="30"/>
 </p>
 
 ---
 
-### 💼 Featured Projects
--  `Modulo-Excusas` — Academic management module at COTECNOVA
--  `webInventory` — an inventory system for any restaurant website or small business site.
--  `Calculadora-en-JavaScript` — Functional web calculator project
+## 📈 GitHub Stats  
 
----
-### 😄 About Me
--  I'm currently developing an excuse management module and an inventory system for small businesses.
--  I specialize in front-end technologies (HTML, CSS, JavaScript), and have experience with PHP, Python, and SQL databases (MySQL, PostgreSQL).
--  I also have knowledge of C, C++, and C# for interactive systems and interface logic.
--  I'm currently learning Vue.js and improving my skills in UI/UX design and clean, scalable code.
--  I’m open to collaborating on educational platforms, online stores, and creative web projects.
--  Ask me about JavaScript, front-end development, or building efficient user-focused applications.
--  Quick learner, organized, and passionate about building useful and elegant tech solutions.
-
-
-- Portfolio here: https://portfolio-inky-tau-gqub2eap9n.vercel.app/
----
-
-### 📬 Connect with me
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stebanbusiness@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573137057729)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steban-martinez-074697267/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/steban_812/)
-
----
-
-### 🛠 Favorite Technologies
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="margin:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40" style="margin:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="margin:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" style="margin:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="margin:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="margin:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" style="margin:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="margin:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" style="margin:10px;" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white" title="Vercel" alt="Vercel" height="30" />
-</p>
-
-
-
----
-
-## 🧠 My GitHub Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunshide12&radius=16&theme=github-dark&area=true&order=5&custom_title=MY%20ACTIVITY!%20%F0%9F%A7%8F&hide_border=false)
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sunshide12&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Sunshide12 GitHub Streak" />
-</p>
-
----
-
-
+![Steban’s GitHub Streak](https://streak-stats.demolab.com?user=Sunshide12&theme=github-dark)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Sunshide12&color=green&style=flat)
-
----
