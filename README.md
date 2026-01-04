@@ -1,17 +1,17 @@
 # 💻 Steban Martínez Gutiérrez  
 **Junior Web Developer | Front-End & Full Stack Enthusiast**  
 📍 Colombia — Open to Remote Work  
-📧 [steban_812@gmail.com](mailto:steban_812@gmail.com)  
-🔗 [GitHub](https://github.com/Sunshide12) • [LinkedIn](https://www.linkedin.com/in/steban-martinez-074697267/) • [Portfolio](https://portfolio-inky-tau-gqub2eap9n.vercel.app/)
+📧 [stebanbusiness@gmail.com](mailto:stebanbusiness@gmail.com)  
+🔗 [GitHub](https://github.com/Sunshide12) • [LinkedIn](https://www.linkedin.com/in/steban-martinez-074697267/)
 
 ---
 
-## 🧩 Professional Summary  
+## About Me
 Junior Web Developer passionate about building efficient, elegant, and scalable web applications.  
-Strong foundation in **front-end technologies (HTML, CSS, JavaScript, Bootstrap)** and practical experience with **backend integration (PHP, Supabase, SQL)**.  
+Strong foundation in **front-end technologies (HTML, CSS, JavaScript, Bootstrap)** and practical experience with **backend integration (PHP, Supabase, MySQL)**.  
 Experienced in **Single Page Applications (SPA)**, **authentication systems**, **Row Level Security (RLS)**, and **real-time dashboards**.  
 
-Fast learner, analytical thinker, and team collaborator — currently expanding expertise in **Vue.js**, **UI/UX design**, and **modular architecture**.  
+Fast learner, analytical thinker, and team collaborator — I am a person who is constantly learning.  
 English Level: B1 (technical reading and work communication).
 
 ---
@@ -49,7 +49,7 @@ English Level: B1 (technical reading and work communication).
 
 **Technologist in Information Systems**  
 *COTECNOVA — Cartago, Valle del Cauca*  
-📅 Expected Graduation: October 2025  
+📅 Graduated: October 2025  
 
 **Technical Degree in Software Applications**  
 *COTECNOVA — Cartago, Valle del Cauca*  
