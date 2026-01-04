@@ -59,7 +59,7 @@ English Level: B1 (technical reading and work communication).
 
 ## 📜 Certifications  
 
-**Meta Full-Stack Developer Specialization — Coursera**  
+**Meta Full-Stack Developer Specialization**  
 - Frontend: HTML, CSS, JavaScript, React  
 - Backend: Python, Django, Databases, REST APIs  
 - Version Control with Git & GitHub  
