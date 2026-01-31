@@ -1,6 +1,6 @@
 # 💻 Steban Martínez Gutiérrez  
 **Junior Web Developer | Front-End & Full Stack Enthusiast**  
-📍 Colombia — Open to Remote Work  
+📍 Spain — Open to Remote Work  
 📧 [stebanbusiness@gmail.com](mailto:stebanbusiness@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/steban-martinez-074697267/)
 
