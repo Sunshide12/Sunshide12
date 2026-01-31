@@ -2,7 +2,7 @@
 **Junior Web Developer | Front-End & Full Stack Enthusiast**  
 📍 Colombia — Open to Remote Work  
 📧 [stebanbusiness@gmail.com](mailto:stebanbusiness@gmail.com)  
-🔗 [GitHub](https://github.com/Sunshide12) • [LinkedIn](https://www.linkedin.com/in/steban-martinez-074697267/)
+🔗 [LinkedIn](https://www.linkedin.com/in/steban-martinez-074697267/)
 
 ---
 
