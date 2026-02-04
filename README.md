@@ -8,7 +8,7 @@
 
 ## About Me
 Junior Web Developer passionate about building efficient, elegant, and scalable web applications.  
-Strong foundation in **front-end technologies (HTML, CSS, JavaScript, Bootstrap)** and practical experience with **backend integration (PHP, Supabase, MySQL)**.  
+Strong foundation in front-end technologies and practical experience with backend integration (PostgreSQL, MySQL, SQLite ).  
 Experienced in **Single Page Applications (SPA)**, **authentication systems**, **Row Level Security (RLS)**, and **real-time dashboards**.  
 
 Fast learner, analytical thinker, and team collaborator — I am a person who is constantly learning.  
