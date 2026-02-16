@@ -67,7 +67,7 @@ Plataforma integral para la digitalización y aprobación de excusas médicas y 
 * **Base de Datos:** Modelado relacional normalizado para vincular estudiantes, docentes y estados de solicitud.
 * **Impacto:** Optimización de procesos administrativos reduciendo el uso de papel.
 
-### 📦 [Inventory Web V1 (Legacy)](https://github.com/Sunshide12/Inventory_Web)
+### 📦 [Inventory Web V1](https://github.com/Sunshide12/Inventory_Web)
 > **Stack:** Vanilla JavaScript, Bootstrap 5, Supabase.
 
 Primera versión del sistema de inventario construida con **JavaScript Puro (SPA)**.
