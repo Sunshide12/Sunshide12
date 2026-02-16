@@ -1,96 +1,87 @@
-# 💻 Steban Martínez Gutiérrez  
-**Junior Web Developer | Front-End & Full Stack Enthusiast**  
-📍 Spain — Open to Remote Work  
-📧 [stebanbusiness@gmail.com](mailto:stebanbusiness@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/steban-martinez-074697267/)
+# 💻 Steban Martínez Gutiérrez
+### Software Developer | Full-Stack & Architecture Enthusiast
+📍 Spain — Open to Remote Work
+📧 [stebanbusiness@gmail.com](mailto:stebanbusiness@gmail.com)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/steban-martinez-074697267/)
 
 ---
 
-## About Me
-Junior Web Developer passionate about building efficient, elegant, and scalable web applications.  
-Strong foundation in front-end technologies and practical experience with backend integration (PostgreSQL, MySQL, SQLite ).  
-Experienced in **Single Page Applications (SPA)**, **authentication systems**, **Row Level Security (RLS)**, and **real-time dashboards**.  
+## 👨‍💻 About Me
 
-Fast learner, analytical thinker, and team collaborator — I am a person who is constantly learning.  
-English Level: B1 (technical reading and work communication).
+Desarrollador de Software enfocado en la construcción de aplicaciones escalables mediante **Clean Code** y arquitecturas robustas. Mi especialidad radica en el desacoplamiento de lógica de negocio y UI, implementando **Arquitectura Hexagonal (Ports & Adapters)** y **Vertical Slicing**.
 
----
+* **Frontend & Mobile:** Creación de interfaces reactivas usando **React, React Native, Vite** y **Tailwind CSS**.
+* **Backend:** Construcción de APIs y lógica de servidor con **Node.js (Express)** y **PHP**.
+* **Data:** Diseño y gestión de bases de datos relacionales (**PostgreSQL, MySQL, SQLite**) e integración con BaaS como **Supabase**.
 
-## 🚀 Featured Projects  
-
-### 🧾 Inventory Management System (SPA)  
-**JavaScript | Supabase | PostgreSQL | Bootstrap**  
-- Designed and implemented a modern SPA for managing products, categories, and inventory.  
-- Integrated Supabase Auth with secure session management and email verification.  
-- Applied RLS policies to ensure user-level data access control.  
-- Created a real-time dashboard with inventory value, low-stock alerts, and performance caching.  
-- Organized code using modular JavaScript for scalability and maintainability.
-
-### 🎓 Academic Excuse Management Module  
-**PHP | JavaScript | MySQL**  
-- Developed a complete excuse management system for academic institutions.  
-- Designed data models linking students, subjects, teachers, and excuse requests.  
-- Implemented validation workflows and status tracking.  
-- Approved as final degree project for both Technical and Technologist programs.  
-- Focused on data integrity, usability, and institutional needs.
+Me apasiona transformar requisitos complejos en código modular, testeable y de alto rendimiento.
 
 ---
 
-## 🧠 Technical Skills  
+## 🛠️ Tech Stack
 
-**Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, SPA Architecture  
-**Backend & Databases:** Supabase (PostgreSQL, Auth, RLS), SQL, PHP, Python (basic)  
-**Tools & Practices:** Git & GitHub, RESTful APIs, Client-side Caching, Responsive Design, Modular JS Architecture  
-**Currently Learning:** Vue.js, UI/UX Best Practices, Scalable Front-end Architecture  
+### Frontend & Mobile
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+</p>
 
----
+### Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-## 🎓 Education  
-
-**Technologist in Information Systems**  
-*COTECNOVA — Cartago, Valle del Cauca*  
-📅 Graduated: October 2025  
-
-**Technical Degree in Software Applications**  
-*COTECNOVA — Cartago, Valle del Cauca*  
-📅 Graduated: May 2024  
-
----
-
-## 📜 Certifications  
-
-**Meta Full-Stack Developer Specialization**  
-- Frontend: HTML, CSS, JavaScript, React  
-- Backend: Python, Django, Databases, REST APIs  
-- Version Control with Git & GitHub  
-🔗 [Verify Credential](https://coursera.org/verify/specialization/2QBFTEOE59XX)
-
----
-
-## 🌍 Languages  
-- **Spanish:** Native  
-- **English:** B1 (Intermediate – technical documentation and work communication)  
-- Actively improving toward B2 proficiency  
-
----
-
-## ⚙️ Favorite Technologies  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white" title="Vercel" height="30"/>
+### Database & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+## 🚀 Featured Projects
 
-![Steban’s GitHub Streak](https://streak-stats.demolab.com?user=Sunshide12&theme=github-dark)  
-![Profile Views](https://komarev.com/ghpvc/?username=Sunshide12&color=green&style=flat)
+### 🏗️ [Inventario Profesional ST (Active Development)](https://github.com/Sunshide12/Inventario-Profesional-ST-)
+> **Stack:** React, Vite, Tailwind CSS, Supabase, Context API.
+
+Sistema avanzado de gestión de inventarios diseñado bajo una implementación estricta de **Arquitectura Hexagonal (Ports & Adapters)** y **Vertical Slicing**.
+* **Arquitectura Limpia:** Separación total entre el Dominio (Lógica pura), Casos de Uso y la Infraestructura (Supabase/UI).
+* **Escalabilidad:** Código diseñado para ser mantenible y testeable a largo plazo, evitando el acoplamiento fuerte.
+* **Seguridad:** Autenticación robusta y gestión de sesiones mediante Supabase Auth.
+
+### 🏥 [Sistema de Gestión de Excusas (Academic Project)](https://github.com/Sunshide12/Excusas-2)
+> **Stack:** PHP Nativo (Pure), MySQL, HTML5/CSS3.
+
+Plataforma integral para la digitalización y aprobación de excusas médicas y académicas.
+* **Backend Robusto:** Implementación de lógica de negocio compleja sin dependencia de frameworks, gestionando roles y permisos manualmente.
+* **Base de Datos:** Modelado relacional normalizado para vincular estudiantes, docentes y estados de solicitud.
+* **Impacto:** Optimización de procesos administrativos reduciendo el uso de papel.
+
+### 📦 [Inventory Web V1 (Legacy)](https://github.com/Sunshide12/Inventory_Web)
+> **Stack:** Vanilla JavaScript, Bootstrap 5, Supabase.
+
+Primera versión del sistema de inventario construida con **JavaScript Puro (SPA)**.
+* Demostración de control del DOM y manejo de estado sin librerías reactivas.
+* Integración directa con Supabase para CRUD en tiempo real.
+* Base conceptual para la posterior migración a React con Arquitectura Hexagonal.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sunshide12&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sunshide12&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
