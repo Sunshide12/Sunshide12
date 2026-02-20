@@ -70,6 +70,12 @@ Migración del proyecto anterior a React aplicando arquitectura modular. Actualm
 
 ---
 ?spin=true&scan=true&eq_color=rainbow&theme=dark
+<a href="https://Sunshide12.pythonanywhere.com/link">
+  <img
+    src="https://Sunshide12.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
 ---
 
 ## 📈 GitHub Stats
