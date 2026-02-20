@@ -69,13 +69,9 @@ Migración del proyecto anterior a React aplicando arquitectura modular. Actualm
 
 
 ---
-?spin=true&scan=true&eq_color=rainbow&theme=dark
-<a href="https://Sunshide12.pythonanywhere.com/link">
-  <img
-    src="https://Sunshide12.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
+
+### 🎵 Now Playing on Spotify
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317adp7phfujyk3yfd73ipqad5pm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 ---
 
 ## 📈 GitHub Stats
