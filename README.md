@@ -67,6 +67,9 @@ Sistema web funcional de gestión de inventario. CRUD completo desarrollado con 
 
 Migración del proyecto anterior a React aplicando arquitectura modular. Actualmente implementado: sistema de autenticación y estructura base del proyecto.
 
+
+---
+?spin=true&scan=true&eq_color=rainbow&theme=dark
 ---
 
 ## 📈 GitHub Stats
