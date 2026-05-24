@@ -8,7 +8,7 @@
 
 ## About Me
 
-Desarrollador Full Stack orientado a la creación de aplicaciones web escalables mediante código limpio y eficiente. Cuento con experiencia práctica en el desarrollo de soluciones web y un sólido manejo de bases de datos relacionales. En constante aprendizaje, actualmente enfocando mi crecimiento técnico hacia la **Seguridad de la Información** y la gestión de **Infraestructura**.
+Desarrollador con experiencia profesional en el desarrollo de soluciones web Full Stack y un sólido manejo de bases de datos relacionales. En constante aprendizaje, actualmente enfocando mi crecimiento técnico hacia la **Seguridad de la Información** y la gestión de **Infraestructuras**.
 
 **Mis herramientas y tecnologías principales:**
 * **Lenguajes:** JavaScript, TypeScript, PHP, Python
@@ -18,5 +18,4 @@ Desarrollador Full Stack orientado a la creación de aplicaciones web escalables
 
 ---
 
-### 🎵 Now Playing on Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317adp7phfujyk3yfd73ipqad5pm&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317adp7phfujyk3yfd73ipqad5pm&redirect=true)
+projects below ⬇️
