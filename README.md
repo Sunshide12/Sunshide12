@@ -1,5 +1,5 @@
-# 💻 Steban Martínez Gutiérrez
-### Software Developer | Full-Stack Developer
+# Steban Martínez Gutiérrez
+### Full-Stack Developer
 
 **📍 Spain**  
 📧 stebanbusiness@gmail.com | 🔗 [LinkedIn](tu-link)
@@ -18,7 +18,7 @@ Desarrollador Full Stack orientado a la creación de aplicaciones web escalables
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🏥 [Sistema de Gestión de Excusas Académicas (COTECNOVA)](link-repo)
 > **Stack:** `PHP` | `MySQL` | `HTML/CSS`
