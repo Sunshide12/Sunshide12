@@ -6,16 +6,18 @@
 
 ---
 
-## About Me
+## Sobre Mí / About Me
 
-Desarrollador con experiencia profesional en el desarrollo de soluciones web Full Stack y un sólido manejo de bases de datos relacionales. En constante aprendizaje, actualmente enfocando mi crecimiento técnico hacia la **Seguridad de la Información** y la gestión de **Infraestructuras**.
+Desarrollador Full Stack, Construyo aplicaciones potenciadas con Inteligencia Artificial. 
+Bases de datos vectoriales y desarrollo de sistemas RAG.
 
-**Mis herramientas y tecnologías principales:**
-* **Lenguajes:** JavaScript, TypeScript, PHP, Python
-* **Frontend:** React, Next.js, Tailwind CSS, Vite
-* **Backend:** Node.js, Express, Laravel
-* **Bases de Datos & BaaS:** PostgreSQL, MySQL, Supabase
+* **Lenguajes:** TypeScript, PHP, Python
+* **Frontend:** React, Next.js, Astro, Tailwind CSS
+* **Backend:** Laravel, Node.js, Deno
+* **Bases de Datos & Caché:** PostgreSQL, pgvector, MySQL, Redis, Supabase
+* **IA & Modelos:** Sistemas RAG, Gemini, Claude, GPT
+* **Infra & DevOps:** Cloudflare (Workers/Pages/R2), Vercel, Nginx, Linux
 
 ---
 
-My projects below ⬇️
+More of me: Sunshide.com
