@@ -6,7 +6,7 @@ Bases de datos vectoriales y desarrollo de sistemas RAG.
 * **Lenguajes:** TypeScript, PHP, Python
 * **Frontend:** React, Next.js, Astro, Tailwind CSS
 * **Backend:** Laravel, Node.js, Deno
-* **Bases de Datos & Caché:** PostgreSQL, pgvector, MySQL, Redis, Supabase
+* **Bases de Datos & Caché:** PostgreSQL, Redis, pgvector, Supabase, MySQL
 * **IA & Modelos:** Sistemas RAG, Gemini, Claude, GPT
 * **Infra & DevOps:** Cloudflare (Workers/Pages/R2), Vercel, Nginx, Linux
 
