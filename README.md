@@ -1,11 +1,3 @@
-# Steban Martínez Gutiérrez
-### Full-Stack Developer
-
-**📍 Spain**  
-📧 stebanbusiness@gmail.com | 🔗 [LinkedIn](tu-link)
-
----
-
 ## Sobre Mí / About Me
 
 Desarrollador Full Stack, Construyo aplicaciones potenciadas con Inteligencia Artificial. 
@@ -20,4 +12,9 @@ Bases de datos vectoriales y desarrollo de sistemas RAG.
 
 ---
 
-More of me: Sunshide.com
+
+
+**📍 Spain**  
+📧 stebanbusiness@gmail.com | 🔗 [LinkedIn](tu-link)
+
+Sunshide.com
