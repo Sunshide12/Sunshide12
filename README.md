@@ -1,4 +1,4 @@
-## Sobre Mí / About Me
+## Sobre Mí
 
 Desarrollador Full Stack, Construyo aplicaciones potenciadas con Inteligencia Artificial. 
 Bases de datos vectoriales y desarrollo de sistemas RAG.
